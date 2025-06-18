@@ -1,7 +1,7 @@
 🏀 Web Partidos de Baloncesto
 Plataforma web completa para seguimiento de partidos, clasificaciones y estadísticas del equipo Cadete B CBC Manises-Quart.
 🌐 Demo en vivo
-👉 Ver aplicación
+👉 [Ver aplicación](https://cadetebcbcmanisesquart.vercel.app/)
 📋 Características
 
 ✅ Resultados en tiempo real - Seguimiento de partidos actuales
@@ -53,7 +53,5 @@ Edgar Meroño
 🐙 GitHub: @Edgarmp06
 📍 Manises, Valencia
 
-📄 Licencia
-Este proyecto está bajo la Licencia MIT - mira el archivo LICENSE para más detalles.
 
 ⭐ ¡Si te gusta el proyecto, dale una estrella! ⭐
